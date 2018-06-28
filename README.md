@@ -1,2 +1,4 @@
 # HQrack
-A PoC application of how OCR can be used to gain an advantage in populate trivia app HQ
+A PoC application of demonstrating use of OCR to gain an advantage in popular trivia app HQ
+
+Requires python 3.x 
