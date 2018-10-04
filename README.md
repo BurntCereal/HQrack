@@ -22,4 +22,7 @@ Code may need to be modifies if HQ updates their interface (i.e. may need to cha
 
 I just wanted to see if it was possible and will not continue to support further iterations. 
 
+## sample input
+
+![alt text](https://raw.githubusercontent.com/BurntCereal/HQrack/master/test/hq1.jpg)
 
