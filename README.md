@@ -24,5 +24,4 @@ I just wanted to see if it was possible and will not continue to support further
 
 ## sample input
 
-![alt text](https://raw.githubusercontent.com/BurntCereal/HQrack/master/test/hq1.jpg)
-
+<img src="https://raw.githubusercontent.com/BurntCereal/HQrack/master/test/hq1.jpg" width="288" height="512">
