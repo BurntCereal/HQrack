@@ -18,7 +18,7 @@ You will need to get your own google search engine keys to use, config variables
 
 ## Notes
 
-Code may need to be modifies if HQ updates their interface (i.e. may need to change ocr approach) (see test folder for sample images of what will work)
+Code may need to be modified if HQ updates their interface (i.e. may need to change ocr approach) (see test folder for sample images of what will work)
 
 I just wanted to see if it was possible and will not continue to support further iterations. 
 
